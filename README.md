@@ -1,5 +1,9 @@
 # connpass-client
 
+
+[![Coverage Status](https://raw.githubusercontent.com/yu-kun/connpass-client/coverage/coverage-badge.svg)](https://yu-kun.github.io/connpass-client/)
+
+
 connpass APIクライアント
 
 ## インストール
