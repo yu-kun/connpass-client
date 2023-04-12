@@ -33,8 +33,4 @@ jobs:
           git rm -rf .
           git add .
           git commit -m "generate coverage"
-<<<<<<< HEAD
           git push origin $BRANCH_NAME
-=======
-          git push origin $BRANCH_NAME
->>>>>>> 9338b751f1dd38601fc5b3572fb4cb13190520bf
